@@ -20696,6 +20696,36 @@ cr.getProjectModel = function() { return [
 		[],
 		null
 	]
+,	[
+		"t14",
+		cr.plugins_.Sprite,
+		false,
+		[],
+		0,
+		0,
+		null,
+		[
+			[
+			"Default",
+			5,
+			false,
+			1,
+			0,
+			false,
+			6564894069411277,
+			[
+				["images/logo-sheet0.png", 2319, 0, 0, 268, 43, 1, 0.5, 0.5116279125213623,[],[-0.4813432693481445,-0.395348846912384,0,-0.1860465109348297,0.4365671873092651,-0.1162790656089783,0.5,-0.02325582504272461,0.4365671873092651,0.09302324056625366,0,0.3488371968269348,-0.4813432693481445,0.3720930218696594,-0.5,-0.02325582504272461],0]
+			]
+			]
+		],
+		[
+		],
+		false,
+		false,
+		9887025895099582,
+		[],
+		null
+	]
 	],
 	[
 	],
@@ -21410,8 +21440,26 @@ cr.getProjectModel = function() { return [
 					1
 				]
 			]
-,			[
-				[24, 63, 0, 200, 48, 0, 0, 1, 0, 0, 0, 0, []],
+			],
+			[			]
+		]
+,		[
+			"captions",
+			2,
+			7205559222328857,
+			true,
+			[255, 255, 255],
+			true,
+			0,
+			0,
+			1,
+			false,
+			1,
+			0,
+			0,
+			[
+			[
+				[267, 59, 0, 200, 48, 0, 0, 1, 0, 0, 0, 0, []],
 				5,
 				45,
 				[
@@ -21423,7 +21471,7 @@ cr.getProjectModel = function() { return [
 					0,
 					"24pt Arial",
 					"rgb(0,0,0)",
-					0,
+					1,
 					0,
 					0,
 					0,
@@ -21431,7 +21479,7 @@ cr.getProjectModel = function() { return [
 				]
 			]
 ,			[
-				[20, 20, 0, 83, 24, 0, 0, 1, 0, 0, 0, 0, []],
+				[13, 31, 0, 122, 24, 0, 0, 1, 0, 0, 0, 0, []],
 				11,
 				51,
 				[
@@ -21439,7 +21487,7 @@ cr.getProjectModel = function() { return [
 				[
 				],
 				[
-					"Highscore:",
+					"Your Highscore:",
 					0,
 					"12pt Arial",
 					"rgb(0,0,0)",
@@ -21451,7 +21499,7 @@ cr.getProjectModel = function() { return [
 				]
 			]
 ,			[
-				[100, 20, 0, 200, 22, 0, 0, 1, 0, 0, 0, 0, []],
+				[135, 31, 0, 200, 22, 0, 0, 1, 0, 0, 0, 0, []],
 				12,
 				52,
 				[
@@ -21471,7 +21519,7 @@ cr.getProjectModel = function() { return [
 				]
 			]
 ,			[
-				[20, 40, 0, 200, 25, 0, 0, 1, 0, 0, 0, 0, []],
+				[13, 10, 0, 200, 25, 0, 0, 1, 0, 0, 0, 0, []],
 				13,
 				53,
 				[
@@ -21488,6 +21536,21 @@ cr.getProjectModel = function() { return [
 					0,
 					0,
 					0
+				]
+			]
+,			[
+				[147, 562, 0, 268, 43, 0, 0, 1, 0.5, 0.5116279125213623, 0, 0, []],
+				14,
+				55,
+				[
+				],
+				[
+				],
+				[
+					0,
+					"Default",
+					0,
+					1
 				]
 			]
 			],
@@ -21579,6 +21642,21 @@ cr.getProjectModel = function() { return [
 					1,
 					"",
 					0
+				]
+			]
+,			[
+				[380, 60, 0, 268, 43, 0, 0, 1, 0.5, 0.5116279125213623, 0, 0, []],
+				14,
+				54,
+				[
+				],
+				[
+				],
+				[
+					0,
+					"Default",
+					0,
+					1
 				]
 			]
 			],
@@ -21993,147 +22071,6 @@ false,false,6156129301027511,false
 			]
 			],
 			[
-			[
-				5,
-				cr.plugins_.Text.prototype.acts.SetPos,
-				null,
-				767973427857104,
-				false
-				,[
-				[
-					0,
-					[
-						19,
-						cr.system_object.prototype.exps.scrollx
-					]
-				]
-,				[
-					0,
-					[
-						5,
-						[
-							19,
-							cr.system_object.prototype.exps.scrolly
-						]
-						,[
-							0,
-							280
-						]
-					]
-				]
-				]
-			]
-,			[
-				11,
-				cr.plugins_.Text.prototype.acts.SetPos,
-				null,
-				1018853848503771,
-				false
-				,[
-				[
-					0,
-					[
-						5,
-						[
-							19,
-							cr.system_object.prototype.exps.scrollx
-						]
-						,[
-							0,
-							380
-						]
-					]
-				]
-,				[
-					0,
-					[
-						5,
-						[
-							19,
-							cr.system_object.prototype.exps.scrolly
-						]
-						,[
-							0,
-							280
-						]
-					]
-				]
-				]
-			]
-,			[
-				12,
-				cr.plugins_.Text.prototype.acts.SetPos,
-				null,
-				9671736243833673,
-				false
-				,[
-				[
-					0,
-					[
-						5,
-						[
-							19,
-							cr.system_object.prototype.exps.scrollx
-						]
-						,[
-							0,
-							300
-						]
-					]
-				]
-,				[
-					0,
-					[
-						5,
-						[
-							19,
-							cr.system_object.prototype.exps.scrolly
-						]
-						,[
-							0,
-							280
-						]
-					]
-				]
-				]
-			]
-,			[
-				13,
-				cr.plugins_.Text.prototype.acts.SetPos,
-				null,
-				2442975761988064,
-				false
-				,[
-				[
-					0,
-					[
-						5,
-						[
-							19,
-							cr.system_object.prototype.exps.scrollx
-						]
-						,[
-							0,
-							380
-						]
-					]
-				]
-,				[
-					0,
-					[
-						5,
-						[
-							19,
-							cr.system_object.prototype.exps.scrolly
-						]
-						,[
-							0,
-							260
-						]
-					]
-				]
-				]
-			]
 			]
 			,[
 			[
@@ -22869,7 +22806,7 @@ false,false,6156129301027511,false
 	false,
 	0,
 	0,
-	54,
+	56,
 	false,
 	true,
 	1,

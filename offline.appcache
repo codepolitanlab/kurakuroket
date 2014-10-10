@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1412913915
+#1412919359
 index.html
 c2runtime.js
 jquery-2.0.0.min.js
@@ -7,6 +7,7 @@ images/bg.png
 images/tilemap.png
 images/kura-sheet0.png
 images/koin-sheet0.png
+images/logo-sheet0.png
 media/coin.ogg
 icon-16.png
 icon-32.png
